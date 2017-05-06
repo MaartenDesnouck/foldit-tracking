@@ -6,7 +6,6 @@ function setValue(row, kolom, blad, value) {
     } else {
         var cell = blad.getRange('a1');
         cell.offset(row, kolom).setValue(value);
-
     }
 }
 
