@@ -1,5 +1,4 @@
-![foldit logo](https://raw.githubusercontent.com/MaartenDesnouck/foldit-tracking/master/images/logo/gas-logo.png "gas")
-
+<img src="https://raw.githubusercontent.com/MaartenDesnouck/foldit-tracking/master/images/foldit.png" alt="foldit" title="gas" align="right" height="97" width="160"/>
 # Legacy tracking of all Foldit rankings
 
 --------------------------------------------------------------------------------
