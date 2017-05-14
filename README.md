@@ -2,8 +2,6 @@
 
 # Legacy tracking of all Foldit rankings
 
---------------------------------------------------------------------------------
-
 ### [Histories of the top 15 players]
 
 [SOLOIST Score history (since April 8, 2014)](https://docs.google.com/spreadsheets/d/1WZZHdeqkkZOKjsucd4hoBwzsL-Zjcv7ns65m3QGwaXA/edit?usp=sharing#gid=0)
